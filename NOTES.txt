@@ -1,0 +1,12 @@
+wasm file generated with tensorflow/experiments
+wasm file located in /usr/local/code/experiments/build/....
+
+created get_example_root
+changed fetch wasm file to experiments directory
+
+
+
+changed DATA_FILES
+changed FUNCTIONS
+
+changed function call json
